@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace",
+        "title": "Elevate Your Work Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Work Experience",
+  "subtitle": "Innovative Solutions for a Smarter, More Productive Workplace"
+}
